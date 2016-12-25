@@ -1,9 +1,10 @@
 #!/usr/bin/env node
-var applescript = require('applescript')
+const applescript = require('applescript')
+const path = require('path')
 
 // TODO Manually set hotcorners using args
 
-applescript.execFile('./hotcorners.scpt', function (err, rtn) {
+applescript.execFile(path.join(__dirname, './hotcorners.scpt'), function (err, rtn) {
   if (err) {
     console.log('Error', err) // Something went wrong!
   }
