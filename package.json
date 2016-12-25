@@ -1,0 +1,29 @@
+{
+  "name": "osx-hotcorners",
+  "version": "1.0.0",
+  "description": "Automatically save and reset OSX Hotcorners",
+  "main": "index.js",
+  "bin": {
+    "hotcorners": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "osx",
+    "os",
+    "hot corners",
+    "mac",
+    "apple",
+    "applescript"
+  ],
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "license": "MIT",
+  "dependencies": {
+    "applescript": "^1.0.0"
+  },
+  "coordinates": [
+    45.5191931,
+    -73.5789329
+  ]
+}
