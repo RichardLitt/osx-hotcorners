@@ -1,6 +1,6 @@
 {
   "name": "osx-hotcorners",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Automatically save and reset OSX Hotcorners",
   "main": "index.js",
   "bin": {
@@ -23,7 +23,7 @@
     "applescript": "^1.0.0"
   },
   "coordinates": [
-    45.5192039,
-    -73.5788965
+    45.5213429,
+    -73.5746935
   ]
 }
