@@ -1,5 +1,7 @@
 # osx-hotcorners
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/osx-hotcorners.svg)](https://greenkeeper.io/)
+
 > Automatically save and reset OSX Hotcorners
 
 ## Install
